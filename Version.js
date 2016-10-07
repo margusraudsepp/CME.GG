@@ -1,3 +1,4 @@
+<script>
 console.log("EI toota juu");
 
 var KylaPoissInfo = [
@@ -8,4 +9,4 @@ var KylaPoissInfo = [
 
 alert("asd");
 
-//
+</script>
