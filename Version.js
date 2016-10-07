@@ -4,3 +4,4 @@ var KylaPoissInfo = [{
 {"Developers":"kasu"}
 ]}
 
+alert("asd");
